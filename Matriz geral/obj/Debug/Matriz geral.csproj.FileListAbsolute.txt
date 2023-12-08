@@ -1,0 +1,7 @@
+C:\temp\ws-vs2019\Matriz geral\Matriz geral\bin\Debug\Matriz geral.exe.config
+C:\temp\ws-vs2019\Matriz geral\Matriz geral\bin\Debug\Matriz geral.exe
+C:\temp\ws-vs2019\Matriz geral\Matriz geral\bin\Debug\Matriz geral.pdb
+C:\temp\ws-vs2019\Matriz geral\Matriz geral\obj\Debug\Matriz geral.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\Matriz geral\Matriz geral\obj\Debug\Matriz geral.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Matriz geral\Matriz geral\obj\Debug\Matriz geral.exe
+C:\temp\ws-vs2019\Matriz geral\Matriz geral\obj\Debug\Matriz geral.pdb
